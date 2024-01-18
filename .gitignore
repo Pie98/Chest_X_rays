@@ -1,5 +1,3 @@
 /0_Chest_X_rays_data
 /1_Datasets
-6_saved_models/cnn_best_model.h5
-6_saved_models/efficientnet_B6_feat_extr.h5
-6_saved_models/fine_tuning_best_model.h5
+/6_saved_models
