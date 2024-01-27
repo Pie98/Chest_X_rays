@@ -6,7 +6,7 @@ This machine learning project, primarily developed using TensorFlow, aims to cla
 
 ## Table of Contents
 
-- [EDA and preprocessing](#Project-Structure)
+- [EDA and preprocessing](#EDA and preprocessing)
 - [Model Training](#model-training)
 - [Results](#Results)
 
