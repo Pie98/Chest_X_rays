@@ -39,7 +39,7 @@ The repository is organized as follows:
 
 - **Feature_extraction_model:** Before using fine tuning we test how different pretrained models perform with feature extraction. (Here only the EfficientNetB6 model is shown). 
 
--**Fine_tuning_model** In these four notebooks are trained four different fine tuned models (EfficientNetB7 and EfficientNetB6).
+- **Fine_tuning_model** In these four notebooks are trained four different fine tuned models (EfficientNetB7 and EfficientNetB6).
 In order to reduce overfitting, on top of Global average pooling layers, we used data augmentation layers. The best performances were obtained setting all the layers to trainable. 
 
 - **Ensemble_model:** Here the 3 best performing models are concatenated to obtain the final model. 
@@ -48,5 +48,5 @@ In order to reduce overfitting, on top of Global average pooling layers, we used
 
 ### 5_results
 
--**results_evaluation:** In this notebook we evaluate the results of the best performing model (the ensemble_model).
+- **results_evaluation:** In this notebook we evaluate the results of the best performing model (the ensemble_model).
 
